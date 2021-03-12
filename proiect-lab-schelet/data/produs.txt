@@ -1,0 +1,5 @@
+Cafea;12
+Ciocolata;4
+Apa;3
+Tigari;22
+Alune;150000.0
